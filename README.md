@@ -1,6 +1,6 @@
-# python-kmd
+# java-kmd
 ## What is this ?
-This is a staging repo for porting over Algrand KMD (key management daemon) Python documentation.
+This is a staging repo for porting over Algrand KMD (key management daemon) Java documentation.
 This repo includes
 - creating standalone accounts
 - generating KMD wallets
