@@ -143,8 +143,8 @@ public class Main {
     }
 
     public static void kmdApi() {
-        final String KMD_API_ADDR = "http://localhost:7833";
-        final String KMD_API_TOKEN = "1bce699faef65c80da8da6201bd0639b3ea4205c4fa05d24f94469efa2418f2d";
+        final String KMD_API_ADDR = "http://localhost:4002";
+        final String KMD_API_TOKEN = "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa";
 
         // Create a wallet with kmd rest api
         KmdClient client = new KmdClient();
